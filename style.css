@@ -10,10 +10,17 @@ header
     height: 100px;
     line-height: 100px;
 }
+
 ul
 {
     list-style: none;
 }
+
+body
+{
+    height: 1200px;
+}
+
 ul li
 {
     display: inline-block;
